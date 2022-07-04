@@ -5,7 +5,7 @@ public class employe_demo {
         employe [] e=new employe[10];
         Scanner sc=new Scanner(System.in);
         System.out.println("ENTER EMPLOYE DETAILS");
-        for(int i=0;i<2;i++)
+        for(int i=0;i<6;i++)
         {
             System.out.println("ENTER EMPLOYE SSN");
             int s=sc.nextInt();
